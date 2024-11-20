@@ -12,3 +12,5 @@ TODO:
 - ❌ Support fork/clone system calls
 - ❌ Support multi-threading
 - ❌ Support thread-migration
+- ❌ Support zpoline
+- ❌ Support passthru-libos
